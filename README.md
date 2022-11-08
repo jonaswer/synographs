@@ -1,4 +1,4 @@
-# synograph
+# SYNOGRAPHS
 
 Context:
 
