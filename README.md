@@ -6,4 +6,4 @@ Language sometimes offers different words for the same meaning. This is widely k
 
 Deployment:
 
-The code is deployed web-based under synographs.com
+The code is deployed web-based under synographs.herokuapp.com
